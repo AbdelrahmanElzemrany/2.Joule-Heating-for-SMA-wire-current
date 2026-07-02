@@ -1,4 +1,4 @@
-[Click here and press view raw to download and view the simulation video explaining the standalone process.](StandaloneJouleHeatingExplanation.mp4)
+[Click here and press view raw to download and view the simulation video explaining the standalone process.](StandaloneJouleHeatingExplaination.mp4)
 
 [Click here and press view raw to download and view the integrated control loop video.](TheFeedForwardControllerWithJouleheating.mp4)
 
